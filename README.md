@@ -7,15 +7,15 @@ My work explores
 - AIGC: large language/music/audio/multimodal models
 - AI for science
 - Computational media and arts
-  - Sonic Art, Experimental Music, Electronic Music, Sonification, Ambisonics / Spatial Audio, Field Recording, Sound Studies, Visual Music, Creative Coding, Generative Art, Contemporary Art, Media Art (@SoundLab, @Ryo_Ikeshiro)
+  - Sonic Art, Experimental Music, Electronic Music, Sonification, Ambisonics / Spatial Audio, Field Recording, Sound Studies, Visual Music, Creative Coding, Generative Art, Contemporary Art, Media Art
 
 Experiences include
-- Now ~ 2024/06: CS master's student at Beijing Key Laboratory of Intelligence Telecommunication Software and Multimedia @dssc-group, BUPT.
+- Now ~ 2024/06: CS master's student at Beijing Key Laboratory of Intelligence Telecommunication Software and Multimedia @[dssc-group](https://github.com/dssc-group), BUPT.
 - Upcoming
   - Research intern at [Multimodal Art Projection](https://huggingface.co/m-a-p) community
   - Research assistant at SoundLab, advised by [Ryo Ikeshiro](https://ryoikeshiro.com/)
 - Previous
-  - Research intern @microsoft
-  - Research intern @IDEA-Research
+  - Research intern @[Microsoft](https://github.com/microsoft)
+  - Research intern @[IDEA-Research](https://github.com/IDEA-Research)
 
 🙌 Feel free to get in touch. Seeking Ph.D. opportunities. Available for hire as an RA/intern.
