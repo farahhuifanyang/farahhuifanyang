@@ -12,8 +12,8 @@ My work explores
 Experiences include
 - Now ~ 2024/06: CS master's student at Beijing Key Laboratory of Intelligence Telecommunication Software and Multimedia @[dssc-group](https://github.com/dssc-group), BUPT.
 - Upcoming
-  - Research intern at [Multimodal Art Projection](https://huggingface.co/m-a-p) community
   - Research assistant at SoundLab, advised by [Ryo Ikeshiro](https://ryoikeshiro.com/)
+  - Research assistant at AMAAI, advised by [Dorien Herremans](https://dorienherremans.com/biography)
 - Previous
   - Research intern @[Microsoft](https://github.com/microsoft)
   - Research intern @[IDEA-Research](https://github.com/IDEA-Research)
