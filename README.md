@@ -3,7 +3,8 @@ Hi~ I’m Huifan (Farah) Yang, a researcher, musician, and artist.
 My work explores 
 - Machine learning in multi-modality
 - Computational media and arts, Music AI
-  - Sonic Art, Experimental Music, Electronic Music, Sonification, Ambisonics / Spatial Audio, Field Recording, Sound Studies, Visual Music, Creative Coding, Generative Art, Contemporary Art, Media Art
+  - Sonic Art, Experimental Music, Electronic Music, Sonification, Ambisonics / Spatial Audio, Field Recording, Sound Studies, Visual Music, Creative Coding
+  - Visual Art, Interactive Art, Generative Art, Contemporary Art, Media Art
 - Natural language processing: open relation extraction, information extraction, relation canonicalization, knowledge graph
 - AIGC: large language/music/audio/multimodal models
 - AI for science
