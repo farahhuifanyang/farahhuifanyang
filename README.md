@@ -15,7 +15,7 @@ Experiences include
 - Now
   - 2023 ~ 2024: Research Assistant in Music AI at SoundLab, advised by [Ryo Ikeshiro](https://ryoikeshiro.com/)
 - Previous
-  - 2020 ~ 2021: Research intern at Bing Search Group, STCA @[Microsoft](https://github.com/microsoft)
-  - 2022: Research intern at DataStory Lab @[IDEA-Research](https://github.com/IDEA-Research)
+  - 2020 ~ 2021: Research Intern at Bing Search Group, STCA @[Microsoft](https://github.com/microsoft)
+  - 2022: Research Intern at DataStory Lab @[IDEA-Research](https://github.com/IDEA-Research)
 
 🙌 Feel free to get in touch. Seeking Ph.D. opportunities. Available for hire as an RA/intern.
